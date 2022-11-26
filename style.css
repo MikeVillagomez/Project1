@@ -63,4 +63,12 @@ body
     text-decoration: none;
 }
 /*------- Contact Football------*/
-#conact football
+#Contact Football
+{
+    padding: 80px 0;
+}
+.contactfootball-img
+{
+    width: 100px;
+    margin-top: 20px;
+}
