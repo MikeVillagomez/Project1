@@ -119,3 +119,8 @@ body
     padding-bottom: 50px;
     padding-top: 50px;
 }
+.Danger-title
+{
+    font-size: 40px;
+    font-weight: 600;
+    margin: 8%;
