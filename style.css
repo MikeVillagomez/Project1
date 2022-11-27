@@ -110,3 +110,12 @@ body
     display: block;
     transform: translateY(8px);
 }
+
+/*----Danger of Football section-----*/
+
+#Danger-of-Football
+{
+    background: #f8f9fa;
+    padding-bottom: 50px;
+    padding-top: 50px;
+}
