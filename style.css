@@ -144,3 +144,15 @@ body
     width: 250px;
     margin: 0 10;
 }
+/*------social-media section------*/
+#social-media
+{
+    background: #f8f9fa;
+    padding: 100px 0;
+}
+#social-media p
+{
+    font-size: 40px;
+    font-weight: 600;
+    margin-bottom: 30px;
+}
