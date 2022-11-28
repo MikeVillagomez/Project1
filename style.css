@@ -211,3 +211,13 @@ body
     margin-top: 30px;
     background-image: linear-gradient(to right #a517ba,#5f1782);
 }
+hr
+{
+    background-color: #fff;
+}
+.copyright
+{
+    margin-bottom: 0;
+    padding-bottom: 20px;
+    text-align: center;
+}
