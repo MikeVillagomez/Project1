@@ -166,6 +166,7 @@ body
     transform: translateY(-10px);
 }
 /*-----------footer-contact page-----------*/
+#footer
 {
     background-image: linear-gradient(to right, #a517ba, #5f1782);
     color: #fff;
