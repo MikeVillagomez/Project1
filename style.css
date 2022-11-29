@@ -193,7 +193,7 @@ body
     text-align: center;
     padding-top: 6px;
     border-radius: 2px;
-    background-image: linear-gradient(to right,#000000,#c10000);;
+    background-image: linear-gradient(to right,#000000,#c10000);
 }
 .footer-box .form-control
 {
@@ -209,7 +209,7 @@ body
     border: none;
     border-radius: 0;
     margin-top: 30px;
-    background-image: linear-gradient(to right #a517ba,#5f1782);
+    background-image: linear-gradient(to right,#000000,#c10000);
 }
 hr
 {
