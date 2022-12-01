@@ -15,7 +15,7 @@ body
 }
 .navbar
 {
-    background-image: linear-gradient(to right, #a517ba,#5f1782);
+    background-image: linear-gradient(to right,#000000,#c10000);
     padding: 0 !important;
 }
 .navbar-brand img
@@ -46,7 +46,7 @@ body
 /*----------banner section------*/
 #banner
 {
-    background-image: linear-gradient(to right, #a517ba,#5f1782);
+    background-image: linear-gradient(to right,#000000,#c10000);
     color: #fff;
     padding-top: 5%;
 }
@@ -164,7 +164,7 @@ body
 /*-----------footer-contact page-----------*/
 #footer
 {
-    background-image: linear-gradient(to right, #a517ba, #5f1782);
+    background-image: linear-gradient(to right,#000000,#c10000);
     color: #fff;
 }
 .footer-img
@@ -189,7 +189,7 @@ body
     text-align: center;
     padding-top: 6px;
     border-radius: 2px;
-    background-image: linear-gradient(to right #a517ba,#5f1782);
+    background-image: linear-gradient(to right,#000000,#c10000);
 }
 .footer-box .form-control
 {
@@ -205,7 +205,7 @@ body
     border: none;
     border-radius: 0;
     margin-top: 30px;
-    background-image: linear-gradient(to right #a517ba,#5f1782);
+    background-image: linear-gradient(to right,#000000,#c10000);
 }
 hr
 {
